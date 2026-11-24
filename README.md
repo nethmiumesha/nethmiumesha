@@ -66,50 +66,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔬 Research Project
-**Cross-Language Smart Contract Vulnerability Detection**
-
-Research focused on detecting smart contract vulnerabilities across multiple programming languages using hybrid deep learning approaches.
-
-- Solidity
-- Rust
-- Vyper
-- Go
-- C++
-
-🔗 [Research Repository](https://github.com/nethmiumesha/research)
-
-### 📊 Research Dataset
-
-A dataset repository supporting cross-language smart contract vulnerability detection research.
-
-🔗 [Dataset Repository](https://github.com/nethmiumesha/dataset)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nethmiumesha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethmiumesha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nethmiumesha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nethmiumesha/nethmiumesha/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
